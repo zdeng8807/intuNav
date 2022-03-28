@@ -1,4 +1,4 @@
-# Learning-based navigation generation from endoscopic image for Nasotracheal intubation
+# In this repository, a Learning-based navigation generation method is introduced for Nasotracheal intubation. 
 
 ## Environment configuration：
 * Python 3.6/3.7/3.8
